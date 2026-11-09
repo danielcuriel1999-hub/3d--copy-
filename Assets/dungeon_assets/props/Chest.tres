@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c7csa0lv3231m"]
+
+[ext_resource type="Texture2D" uid="uid://d4cdt7a8qjk11" path="res://Assets/dungeon_assets/dungeon_albedo.png" id="1_qudpg"]
+
+[resource]
+albedo_texture = ExtResource("1_qudpg")
+metallic = 1.0
+roughness = 0.11
+emission_enabled = true
+emission_energy_multiplier = 0.0
+normal_enabled = true
+normal_scale = 0.1
+ao_enabled = true

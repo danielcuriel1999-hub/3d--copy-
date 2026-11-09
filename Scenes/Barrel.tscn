@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://b3ysxqqsapgcj"]
+
+[ext_resource type="PackedScene" uid="uid://hi7853m8muhr" path="res://Models/brackeys_3d_game_assets/import_examples/barrel/barrel.glb" id="1_vtl75"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_m74cq"]
+
+[node name="StaticBody3D" type="StaticBody3D" unique_id=2077297946]
+
+[node name="barrel" parent="." unique_id=698680118 instance=ExtResource("1_vtl75")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1241994288]
+transform = Transform3D(1.5352966, 0, 0, 0, 1.5352966, 0, 0, 0, 1.5352966, 0.096628666, 1.1055882, 0)
+shape = SubResource("BoxShape3D_m74cq")
