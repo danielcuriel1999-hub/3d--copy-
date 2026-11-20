@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://b4mskc406nsy2"
-path="res://.godot/imported/Greek_Marble_Pillar.glb-48c82da89567c623ac46e32aaaa7e8fb.scn"
+uid="uid://bq1fvlfpdtvwm"
+path="res://.godot/imported/Corn by Quaternius - IhhB7kGaAQ.glb-c43d43d06ca3f07bc5b3c61f036007cd.scn"
 
 [deps]
 
-source_file="res://Imported Custom GLB/Greek_Marble_Pillar.glb"
-dest_files=["res://.godot/imported/Greek_Marble_Pillar.glb-48c82da89567c623ac46e32aaaa7e8fb.scn"]
+source_file="res://Alien Assets/Corn by Quaternius - IhhB7kGaAQ.glb"
+dest_files=["res://.godot/imported/Corn by Quaternius - IhhB7kGaAQ.glb-c43d43d06ca3f07bc5b3c61f036007cd.scn"]
 
 [params]
 
